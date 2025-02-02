@@ -1,0 +1,26 @@
+#Explaination of loop
+#Nested Loop or loop inside a loop
+count = 1
+for i in range(10): #Outer loop
+    #Inside outer loop body
+    print (str(i) * i) # i=0 str(i) *i = 1
+    for j in range(0, i): #Inner or Nested loop
+        count = count +1
+		
+#range(0,10)		
+First time i=0 ,count=1
+		print -- 0
+		count=1+1=2
+Second time i=1 ,count=2
+		print -- 1
+		count=2+1=3
+Third time i=2 ,count=3
+		print -- 22
+		count=3+1=4
+Fourth time i=3 ,count=4
+		print -- 333
+		count=4+1=5
+Fifth time i=4 ,count=5
+		print -- 4444
+		count=5+1=6
+ ................and so on 
