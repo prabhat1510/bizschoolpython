@@ -1,0 +1,6 @@
+59912|Withdraw|1000
+59912|Depost|2000
+59913|withdraw|15000
+59914|Withdraw|1010
+59915|Depost|2020
+59915|withdraw|15000
